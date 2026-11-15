@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+data/raw/
+*.wav
+*.ckpt
+*.pt
+.ipynb_checkpoints/
+results/*.tmp
